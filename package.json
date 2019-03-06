@@ -1,7 +1,8 @@
 {
   "name": "rus_roulette",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "",
+  "homepage": "https://github.com/naorzr/russian_roulette",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

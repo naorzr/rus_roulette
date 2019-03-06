@@ -18,7 +18,7 @@ All you need to do, is pass your favorite object to the roulette, use it as you 
 sooner or later, you'll get a runtime error.
 
 ```
-import roulette from 'russian_roulette'
+const roulette = require('rus_roulette')
 
 const perfectlySafeObject = {perfectlySafeProp: 'PerfectlySafeValue'}
 const perfectlySafeObjectWinkWink = roulette(perfectlySafeObject)
