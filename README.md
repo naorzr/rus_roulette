@@ -33,7 +33,7 @@ Only if you truely love your manager
 Use at your own risk, may cause unexpected behaviours
 
 # License
-*russian_roulette* is available under the DOWHATEVERITSNOTLIKEIHAVEMONEYFORALAWYER license.
+*rus_roulette* is available under the DOWHATEVERITSNOTLIKEIHAVEMONEYFORALAWYER license.
 
 # Author
 ![@naorzr](https://cdn.pixabay.com/photo/2015/09/27/14/04/owl-960700__340.jpg)
