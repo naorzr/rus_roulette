@@ -29,7 +29,7 @@ console.log(perfectlySafeObjectWinkWink.perfectlySafeProp)
 # Should I use this?
 Only if you truely love your manager
 
-# Disclaimere
+# Disclaimer
 Use at your own risk, may cause unexpected behaviours
 
 # License
