@@ -33,7 +33,7 @@ Only if you truely love your manager
 Use at your own risk, may cause unexpected behaviours
 
 # License
-*russian_roulette* is available under the MIT license.
+*russian_roulette* is available under the DOWHATEVERITSNOTLIKEIHAVEMONEYFORALAWYER license.
 
 # Author
 
