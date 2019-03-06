@@ -1,16 +1,16 @@
-# russian_roulette
-With todays technologies making good ol' simple coding runtime errors become harder and harder.  
-Russian Roullete mission is to make your code unsafe again. 
+# rus_roulette
+With todays technologies making good ol' simple coding runtime errors become harder and harder.
+Russian Roullete mission is to make your code unsafe again.
 
-Powered by ES2015 proxies .   
-Equipped with the latest es6 arrow functions.  
-We are proud to present you russian roulette . 
+Powered by ES2015 proxies .
+Equipped with the latest es6 arrow functions.
+We are proud to present you russian roulette .
 
 # Installation
 
 With [npm](https://www.npmjs.com/)
-``` 
-npm i russian_roulette 
+```
+npm i rus_roulette
 ```
 
 # Example
