@@ -36,5 +36,6 @@ Use at your own risk, may cause unexpected behaviours
 *russian_roulette* is available under the DOWHATEVERITSNOTLIKEIHAVEMONEYFORALAWYER license.
 
 # Author
-@naorzr
-(https://cdn.pixabay.com/photo/2015/09/27/14/04/owl-960700__340.jpg)](https://medium.com/@naorzruk "Follow @naorzr on Medium")
+![@naorzr](https://cdn.pixabay.com/photo/2015/09/27/14/04/owl-960700__340.jpg)
+
+Follow me on [Medium](https://medium.com/@naorzruk)
