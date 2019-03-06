@@ -1,5 +1,5 @@
 # rus_roulette
-With todays technologies making good ol' simple coding runtime errors become harder and harder.
+With todays technologies making good ol' simple coding runtime errors become harder and harder.  
 Russian Roullete mission is to make your code unsafe again.
 
 Powered by ES2015 proxies .
